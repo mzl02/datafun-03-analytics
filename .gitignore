@@ -1,0 +1,5 @@
+# Exclude VS Code workspace settings
+.vscode/
+
+# Exclude Python virtual environment folder
+.venv/
